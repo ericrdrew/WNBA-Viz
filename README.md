@@ -1,6 +1,6 @@
 # WNBA-Viz
 
-WNBAEffViz.py
+WNBAEffViz.py:
 Python code using WNBA team data from the 2022 season. Plot created to show offensive/defensive efficiency across the entire season and playoffs. Logos downloaded from Wikipedia.
 
 Data used is WNBAteamData.csv
